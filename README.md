@@ -362,3 +362,5 @@ Here is my thoughts:
 * And track the bounding boxes in last n frames, and using the average of these bounding boxes can make the labelling more stable, not like current joggling bounding box.
 * Using more robust classifier, such mask-rcnn / faster-rcnn / yolov3 to replace current SVM classifier.
 * I suspect the weather condition, light condition, different type and color of car/vehicle(eg, truck) may fail the pipeline.
+
+Yang
